@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @author Douglas abreu
  */
 public class Bloqueio {
+	private int aa;
   private String itemdado;
   private String tipobloqueio;
   private ArrayList<Integer> idtran = new ArrayList<Integer>();
